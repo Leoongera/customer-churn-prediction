@@ -65,5 +65,5 @@ WA_Fn-UseC_-Telco-Customer-Churn.csv
 python analysis.py
 
 ## Takeaways
-Achieved strong predictive performance using Logistic Regression
-Achieved strong predictive performance using Logistic Regression
+- Achieved strong predictive performance using Logistic Regression
+- Achieved strong predictive performance using Logistic Regression
