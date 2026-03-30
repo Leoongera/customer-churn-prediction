@@ -54,8 +54,16 @@ This project builds a machine learning model to predict customer churn using a r
 ---
 
 ## How to Run
-python analysis.py
 
 1. Install dependencies:
-```bash
 pip install pandas scikit-learn
+
+2. Ensure the dataset file is in the same folder as analysis.py:
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+3. Run the analysis:
+python analysis.py
+
+##Takeaways
+• Achieved strong predictive performance using Logistic Regression
+• Achieved strong predictive performance using Logistic Regression
